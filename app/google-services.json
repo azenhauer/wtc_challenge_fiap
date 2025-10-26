@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928763813877",
+    "project_id": "wtc-chat-32f36",
+    "storage_bucket": "wtc-chat-32f36.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928763813877:android:bd7fe8650ad0e7943c8abc",
+        "android_client_info": {
+          "package_name": "com.wtc_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928763813877-bkppeiilnq6qitk7dk1pcbeeccmv2ju7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmWJBcsEgcPxfWCRBn9edtClQT1BZbIuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928763813877-bkppeiilnq6qitk7dk1pcbeeccmv2ju7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
