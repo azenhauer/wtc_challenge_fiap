@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:928763813877:android:bd7fe8650ad0e7943c8abc",
         "android_client_info": {
-          "package_name": "com.wtc_chat"
+          "package_name": "com.example.wtc_chat"
         }
       },
       "oauth_client": [

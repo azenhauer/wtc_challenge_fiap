@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace = "com.wtc_chat"
+    namespace = "com.example.wtc_chat"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.wtc_chat"
+        applicationId = "com.example.wtc_chat"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
@@ -52,6 +52,7 @@ dependencies {
     // Firebase dependencies (no versions needed)
     implementation("com.google.firebase:firebase-auth")
     implementation("com.google.firebase:firebase-analytics")
+    implementation("com.google.firebase:firebase-firestore")
 
     // Coroutines
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
